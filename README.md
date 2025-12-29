@@ -18,7 +18,7 @@ For `MIMIC-CXR`, you can download the dataset from [here](https://drive.google.c
 
 Before the training starts, it is necessary to **generate the masks** corresponding to the images.
 
-Run `preprocess_mask\preprocess_mask.py` to train a model.
+Run `preprocess_mask\generate_mask.sh` to train a model.
 
 The generated masks are relatively large, so you need to wait for a while.
 
