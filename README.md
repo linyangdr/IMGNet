@@ -14,7 +14,7 @@ For `IU X-Ray`, you can download the dataset from [here](https://drive.google.co
 
 For `MIMIC-CXR`, you can download the dataset from [here](https://drive.google.com/file/d/1DS6NYirOXQf8qYieSVMvqNwuOlgAbM_E/view?usp=sharing) and then put the files in `data/mimic_cxr`. You can apply the dataset [here](https://drive.google.com/file/d/1DS6NYirOXQf8qYieSVMvqNwuOlgAbM_E/view?usp=sharing) with your license of [PhysioNet](https://physionet.org/content/mimic-cxr-jpg/2.0.0/).
 
-+++
+## Image mask
 
 Before the training starts, it is necessary to **generate the masks** corresponding to the images.
 
